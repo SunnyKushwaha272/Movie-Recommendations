@@ -7,7 +7,7 @@ A **hybrid movie recommendation system** that suggests similar movies using TF-I
 ## 🌐 Live Demo
 
 🚀 **Deployed App:**  
-https://your-deployed-link-here.com
+https://movierecommendations14.streamlit.app/
 
 ---
 
@@ -68,19 +68,16 @@ movie-recommender/
 ├── README.md
 │
 ├── data/
-│   ├── df.pkl
-│   ├── tfidf.pkl
-│   ├── tfidf_matrix.pkl
-│   ├── indices.pkl
-│   ├── embeddings.pkl
-|   ├── movies.csv
-|   ├── keywords.csv
-|   ├── credits.csv
+│ ├── df.pkl
+│ ├── tfidf.pkl
+│ ├── tfidf_matrix.pkl
+│ ├── indices.pkl
+│ └── embeddings.pkl
 │
-├── images/
-│   ├── home_page.png
-│   ├── recommendations1.png
-│   ├── recommendations2.png
+└── images/
+├── home_page.png
+├── recommendations1.png
+└── recommendations2.png
 
 ---
 
