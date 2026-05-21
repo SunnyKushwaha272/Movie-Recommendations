@@ -31,7 +31,6 @@ Add your screenshots in an `images/` folder and update paths below:
 - Hybrid recommendation system (TF-IDF + Embeddings)
 - Semantic similarity understanding
 - Cosine similarity-based ranking
-- Fuzzy movie search
 - Popularity + rating boosting
 - Streamlit interactive UI
 
